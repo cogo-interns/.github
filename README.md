@@ -1,7 +1,7 @@
 # .github
 A public repository that describes the role of this GitHub Organization.
 
-This organization (github.com/cogo-interns) is intended for use by interns at Cogo Labs, and is licensed with the MIT License.
+This organization (github.com/cogo-interns) is intended for use by interns at Cogo Labs, and is generally licensed with the MIT License.
 
 Presently, this organization is a "personal" organization owned by sblundin@cogolabs.com. However, it is intended to be converted to the ownership of Cogo Labs at the end of this summer. The rationale for this decision is described eloquently in this Stack Overflow post:
 
